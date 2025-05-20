@@ -1,0 +1,43 @@
+{
+ "apps": [
+  {
+ 
+    "app_id":"sample app_id",
+    "org_id":"sample org_id",
+    "deploy_url":"sample deploy_url",
+    "name":"sample name",
+    "alias":"sample alias",
+    "displayName": "small_talk.agent.clever",
+    "priority": 500000
+  },
+    {
+        "app_id": "app_69f2b-62895df0",
+        "org_id": "orga_ecf3613df2fee9",
+        "deploy_url": "https://github.com/myname/repositoryname.git",
+        "name": "blog-engine-acceptance",
+        "alias": "blog-engine-acceptance"
+    },
+    {
+        "app_id": "app_4105-ff945b0be7eb",
+        "org_id": "orga_ecf36122013df2fee9",
+        "deploy_url": "https://github.com/myname/repositoryname.git",
+        "name": "blog-engine",
+        "alias": "log-engine"
+    },
+    {
+        "app_id": "app_69f2b-62895df0",
+        "org_id": "orga_ecf3613df2fee9",
+        "deploy_url": "https://github.com/myname/repositoryname.git",
+        "name": "pre-prod-blog-engine-acceptance",
+        "alias": "pre-prod-blog-engine-acceptance"
+    },
+    {
+        "app_id": "app_4105-ff945b0be7eb",
+        "org_id": "orga_ecf36122013df2fee9",
+        "deploy_url": "https://github.com/myname/repositoryname.git",
+        "name": "pre-prod-blog-engine",
+        "alias": "pre-prod-log-engine"
+    }
+]
+
+}
